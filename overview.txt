@@ -1,9 +1,2 @@
 randomjeju
-<<<<<<< HEAD
-update ParkChanHo
-=======
-
-bacopa
->>>>>>> 03f1f860c51ca5ad7255bcb21dca7be3959522dd
-
-parkchanho update-2
+parkchanho
